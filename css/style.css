@@ -1,0 +1,232 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+#container{
+	width:1170px;
+	margin:0 auto;
+	background-color:#fff;
+	box-shadow:0 0 5px #ccc;
+	padding:30px 25px;
+	
+}
+
+.flex-container{
+	display:flex;
+	background-color:white;
+}
+.picture{
+	width:150px;
+	padding:10px 20px; 
+}
+.picture img{
+	width:100%;
+	height:auto;
+}
+.nevigation{
+	margin:15px 40px;
+}
+.name{
+	font-size:20px;
+	border-bottom:2px solid #ccc;
+	text-transform:capitalize;
+	width:100%;
+	padding:25px 450px 5px 0;
+}
+.nevi-menu{
+	display:flex;
+	list-style:none;
+	padding:5px 30px 10px 0px;
+	font-size:20px;
+	color:gray;
+	text-decoration:none;
+}
+.bold{
+	color:black;
+}
+.container2{
+	background-color:black;
+	text-align:center;
+	border-bottom:2px solid gray;
+}
+.intro{
+	color:gray;
+	text-align:center;
+	padding-top:20px;
+}
+.developer{
+	color:white;
+	padding-top:20px;
+	font-size:40px;
+}
+.address{
+	color:gray;
+	padding-top:20px;
+	font-size:20px;
+}
+.container2 button{
+	padding:20px 50px;
+	border:1px solid white;
+	background-color:#000;
+	color:white;
+}
+.resume{
+	padding:10px 30px;
+}
+.container3{
+	
+	background-color:white;
+	padding:20px 50px;
+}
+.skill{
+	border-top:1px solid gray;
+	font-size:50px;
+}
+.skill-index{
+	display:flex;
+	padding:20px 0px;
+}
+.skill-index p{
+	padding:0px 400px 0px 10px;
+}
+.skill-menu{
+	display:flex;
+	list-style:none;
+	padding:5px 70px 10px 0px;
+	font-size:20px;
+	color:gray;
+	text-decoration:none;
+}
+.container4{
+	background-color:white;
+	padding:20px 50px;
+}
+.education{
+	border-top:1px solid gray;
+	font-size:50px;
+}
+.edu-index{
+	display:flex;
+	padding:20px 5px;
+}
+.edu-index p{
+	padding:0px 400px 0px 10px;
+}
+.qualification{
+	display:flex;
+	align-items:center;
+}
+.bio{
+	border-left:2px solid gray;
+	padding:10px;
+	
+}
+.bio p{color:gray}
+.bio h4{color:gray}
+.percentage1{
+	background-color:#8080801c;
+	padding:30px 30px;
+	margin:0px 10px 0px 350px;
+}
+.qualification 2{
+	display:flex;
+	padding:20px 50px;
+	background-color:white; 
+	margin-top:20px;
+	background-color:color;
+}
+.hsc{
+	border-left:2px solid gray;
+	margin-top:20px;
+	padding:10px;
+}
+.hsc p{color:gray}
+.hsc h4{color:gray}
+.percentage2{
+	background-color:#8080801c;
+	padding:30px 30px;
+	margin:0px 10px 0px 350px;
+}	
+.qualification 3{
+	display:flex;
+	padding:20px 50px;
+	background-color:white;
+}
+.sslc{
+	border-left:2px solid gray;
+	margin-top:20px;
+	padding:10px;
+}
+.sslc p{color:gray}
+.sslc h4{color:gray}
+.percentage3{
+	background-color:#8080801c;
+	padding:30px 30px;
+	margin:0px 10px 0px 350px;
+}		
+.container5{
+	background-color:white;
+	padding:20px 50px;
+}
+.project{
+	border-top:1px solid gray;
+	font-size:50px;
+}
+.pro-index{
+	display:flex;
+	padding:20px 5px;
+}
+.pro-index p{
+	padding:0px 400px 0px 10px;
+}	
+.detail1{
+	border-left:2px solid gray;
+	margin-top:20px;
+	padding:10px;
+}
+.detail1 h4{color:gray} 
+.detail1 p{color:gray}
+.detail2{
+	border-left:2px solid gray;
+	margin-top:20px;
+	padding:10px;
+}
+.detail2 h4{color:gray} 
+.detail2 p{color:gray}
+.detail3{
+	border-left:2px solid gray;
+	margin-top:20px;
+	padding:10px;
+}
+.detail3 h4{color:gray} 
+.detail3 p{color:gray}
+.container6{
+	background-color:white;
+	padding:20px 50px;
+}
+.contact{
+	border-top:1px solid gray;
+	font-size:50px;
+}
+.image img{
+	width:30px;
+	height:auto;
+	margin-right:35px;
+}
+.image{
+	margin-top:10px;
+} 
+.finish{
+	display:flex;
+	text-decoration:none;
+}
+.end{
+	border-left:2px solid gray;
+	padding-left:20px;
+}
+
+
+
+
+
